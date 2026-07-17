@@ -198,12 +198,20 @@ CHEAT_PANEL_TEXT = (
     "🛠 <b>FREE FIRE CHEAT VA PANELLAR</b>\n\n"
     "🔥 Free Fire uchun turli panel va xizmatlar haqida ma'lumot olishni istaysizmi?\n"
     "📢 Barcha yangiliklar va ma'lumotlar kanalimizda!\n"
-    "👉 @freefirechitpanel"
+    "👉 @freefirepanelchit"
 )
 
 PROXY_TEXT = (
     "🌐 <b>PROXY SERVER</b>\n\n"
     "🚀 Free Fire uchun Proxy Server haqida ma'lumot va yangilanishlarni olish uchun "
     "kanalimizga qo'shiling.\n"
-    "📢 Kanal: @freefirechitpanel"
+    "📢 Kanal: @freefirepanelchit"
+)
+
+PRO_VERSION_TEXT = (
+    "🌟 <b>PRO VERSIYA</b>\n\n"
+    "Bot imkoniyatlarini kengaytirilgan Pro versiyasi haqida ma'lumot olish uchun "
+    "admin bilan bog'laning 👇\n\n"
+    "📩 @ffhelpnastroyka\n"
+    "📢 Kanal: @xonfirestream"
 )
